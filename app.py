@@ -5,7 +5,7 @@ import zipfile
 from telegram import Update
 from telegram.ext import Updater, CommandHandler, CallbackContext
 
-TOKEN = "توکن_ربات_تو_اینجا"
+TOKEN = "8119878959:AAGZdBTiBfgq34ZOp5Qsobfh3zU0cgXQAQg"
 DOWNLOAD_BASE = "downloaded_sites"
 
 def zip_folder(folder_path, zip_path):
