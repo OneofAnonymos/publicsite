@@ -1,0 +1,5 @@
+نیازمدی ها
+pip install python-telegram-bot
+همچنین باید wget روی هاست یا سرورت نصب باشه و در دسترس باشه (معمولاً نصبه) 
+sudo apt-get install wget
+
